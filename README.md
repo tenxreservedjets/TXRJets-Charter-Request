@@ -6,7 +6,7 @@ Official Request Quote System app for private aviation booking, crew management,
 
 Welcome to the official mobile gateway for TenX Reserved Jets booking platform.
 
-<img width="220" height="450" alt="photo_2026-07-13_03-40-30" src="https://github.com/user-attachments/assets/564a50ed-17b4-49e5-8e90-aa24e8f0398e" />
+<img width="300" height="450" alt="photo_2026-07-13_03-40-30" src="https://github.com/user-attachments/assets/564a50ed-17b4-49e5-8e90-aa24e8f0398e" />
 
 
 ## Features
@@ -14,7 +14,7 @@ Welcome to the official mobile gateway for TenX Reserved Jets booking platform.
 • **Flight Tracking:** Monitor your chartered missions in real-time.
 • **Aircraft Availability:** Booking marked confirmed when an aircraft have been secured for your flight.
 
-<img width="220" height="568" alt="photo_2026-07-13_03-40-23" src="https://github.com/user-attachments/assets/bca7668f-756a-46f2-afe4-272c16da23c0" />
+<img width="290" height="568" alt="photo_2026-07-13_03-40-23" src="https://github.com/user-attachments/assets/bca7668f-756a-46f2-afe4-272c16da23c0" />
 
 
 ## Installation
